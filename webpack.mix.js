@@ -16,5 +16,4 @@ mix
     .sass('resources/sass/app.scss', 'public/css')
     .browserSync({
         proxy: "localhost"
-    })
-    ;
+    });
