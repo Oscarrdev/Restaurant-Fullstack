@@ -15,7 +15,7 @@
     </head>
     <body>
     <section id="app-layout">
- @include('includes.side-menu')
+    @include('includes.side-menu')
     <div class="welcome-jumbo">
       <div class="status">NEW</div>
       <h1>Billy Burger</h1>
